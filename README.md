@@ -31,8 +31,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Umair-Manzoor-47&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # 🐶 My Repos
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umair-Manzoor-47&repo=odin_log)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umair-Manzoor-47&repo=cs50)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umair-Manzoor-47&repo=game_framework)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umair-Manzoor-47&repo=smart-contract-exercises)
 
 # ✉️ Contact Me Via
 - <p>My <a href="mailto:umairmanzoor546@gmail.com">email</a>.</p>
