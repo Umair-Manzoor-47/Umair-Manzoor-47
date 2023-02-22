@@ -16,9 +16,9 @@
 # 👨‍💻 About Me
 
 - 🌱 I’m currently learning Solidity.
-- 💬 Ask me anything about MERN stack and its technologies.
+- 💬 Ask me anything about Block-Chain and its technologies.
 - 😄 Pronouns: He / Him.
-- 📚 5th semester at UET, Lahore.
+- 📚 6th semester at UET, Lahore.
 
 # ⚡ My Tech Stack
 ![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Cpython%2Cnodedotjs%2Creact%2Csolidity%2Cethereum&preset=dark&shadow=true&width=200)
