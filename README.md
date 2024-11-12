@@ -15,7 +15,7 @@
 
 # 👨‍💻 About Me
 
-- 🌱 I’m currently learning Solidity.
+- 🌱 I’m currently learning flutter.
 - 💬 Ask me anything about Block-Chain and its technologies.
 - 😄 Pronouns: He / Him.
 - 📚 6th semester at UET, Lahore.
