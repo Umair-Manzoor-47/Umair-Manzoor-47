@@ -16,9 +16,9 @@
 # 👨‍💻 About Me
 
 - 🌱 I’m currently learning flutter.
-- 💬 Ask me anything about Block-Chain and its technologies.
+- 💬 Ask me anything about GAMES.
 - 😄 Pronouns: He / Him.
-- 📚 6th semester at UET, Lahore.
+- 📚 Uet Game Studio.
 
 # ⚡ My Tech Stack
 ![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Cpython%2Cnodedotjs%2Creact%2Csolidity%2Cethereum&preset=dark&shadow=true&width=200)
@@ -34,4 +34,4 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umair-Manzoor-47&repo=smart-contract-exercises)
 
 # ✉️ Contact Me Via
-- <p>My <a href="mailto:umairmanzoor546@gmail.com">email</a>.</p>
+- <p>My <a href="mailto:umairmanzoor546@gmail.com">umairmanzoor546@gmail.com</a>.</p>
