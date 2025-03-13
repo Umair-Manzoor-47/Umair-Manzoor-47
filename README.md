@@ -9,29 +9,32 @@
 
 <div style="display: flex;
   justify-content: space-between;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=I+am+Umair;A+Computer+Science+Student;Blockchain+Developer;Currently+learning+solidity">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=I+am+Umair+Manzoor;A+Computer+Scientist;Software+Developer;Currently+learning+lowcode+Development">
   <img src="https://media1.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" align = "right">
 </div>
 
-# 👨‍💻 About Me
+# 👾 About Me  
 
-- 🌱 I’m currently learning flutter.
-- 💬 Ask me anything about GAMES.
-- 😄 Pronouns: He / Him.
-- 📚 Uet Game Studio.
+💡 **Dev & Nerd** | 🚀 **Code n' Play**  
+
+🎮 Ask me anything about games!  
+🧑‍💻 Dart is the new black.  
+⚡ Exploring Ensemble.
+
+Let’s build, break, and level up! 🚀🔥
 
 # ⚡ My Tech Stack
-![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=html5%2Ccss3%2Cjavascript%2Cpython%2Cnodedotjs%2Creact%2Csolidity%2Cethereum&preset=dark&shadow=true&width=200)
+![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=flutter%2Cunity%2Cdart%2Ccsharp%2Cunrealengine%2Ccplusplus%2Csolidity%2Cethereum&preset=dark&shadow=true&width=200)
 
 <!-- # 📈 GitHub Activity Graph:
 ![Umair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Umair-Manzoor-47&hide_border=true&theme=redical)--->
 # 🚀 My Stats
-![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umair-Manzoor-47&show_icons=true&theme=aura)
+![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umair-Manzoor-47&show_icons=true&theme=transparent&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Umair-Manzoor-47&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # 🐶 My Repos
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umair-Manzoor-47&repo=framework)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umair-Manzoor-47&repo=smart-contract-exercises)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umair-Manzoor-47&repo=framework&show_icons=true&theme=transparent&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umair-Manzoor-47&repo=smart-contract-exercises&show_icons=true&theme=transparent&hide_border=true)
 
 # ✉️ Contact Me Via
-- <p>My <a href="mailto:umairmanzoor546@gmail.com">umairmanzoor546@gmail.com</a>.</p>
+- <p><a href="mailto:umairmanzoor546@gmail.com">umairmanzoor546@gmail.com</a>.</p>
