@@ -29,7 +29,7 @@ Let’s build, break, and level up! 🚀🔥
 <!-- # 📈 GitHub Activity Graph:
 ![Umair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Umair-Manzoor-47&hide_border=true&theme=redical)--->
 # 🚀 My Stats
-![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umair-Manzoor-47&show_icons=true&theme=transparent&hide_border=true)
+![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umair-Manzoor-47&show_icons=true&theme=transparent&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Umair-Manzoor-47&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # 🐶 My Repos
