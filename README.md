@@ -14,14 +14,8 @@ Umair Manzoor
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=A+Computer+Scientist;Software+Developer;Currently+learning+lowcode+Development">
   <!-- <img src="https://media1.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" align = "right"> -->
 </div>
-
-**Dev & Nerd** | **Code n' Play**  
-
-Ask me anything about games!  
-Dart is the new black.  
-Exploring Ensemble.
-
-Let’s build, break, and level up!
+ 
+Building, Breaking and trying to Level up!
 
 # My Tech Stack
 ![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=flutter%2Cunity%2Cdart%2Ccsharp%2Cunrealengine%2Ccplusplus%2Csolidity%2Cethereum&preset=dark&shadow=true&width=200)
